@@ -8,7 +8,6 @@ Converts all `.svg` files found under the `input/` directory into `.pdf` files i
 - `uv` (used by `run.sh` and `run.bat` to install project dependencies)
 - Python package dependencies:
 	- `svglib>=2.0.0`
-	- `reportlab` (imported by `main.py`; installed as part of dependency resolution)
 
 ## Project Structure
 
